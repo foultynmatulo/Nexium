@@ -16,6 +16,7 @@ Nexium provides an intelligent AI assistant that understands Roblox development 
 
 You can use it to:
 
+- Generate roblox games from prompts
 - Generate scripts from simple descriptions
 - Explain complex code
 - Debug errors
@@ -27,6 +28,9 @@ Example:
 
 ```
 Create a round system with an intermission timer and winner detection
+```
+```
+Create a roblox game called The Floor Is Lava, make it have intermissions and a rising lava
 ```
 
 Nexium will generate the required Luau code and explain how it works.
