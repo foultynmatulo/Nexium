@@ -114,3 +114,10 @@ Each provider supports:
 - Flexible settings
 
 ---
+
+## 🪪 License
+
+- We use an MIT License so that means you may not modify the internal files of this project.
+- If you modify or sell the files you will be terminated from using this
+- You may modify files only if you're on the development team
+- Any other projects that have been inspired or taken context from Nexium will need credits to me and my dev team
